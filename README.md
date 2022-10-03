@@ -6,4 +6,7 @@ Multi-vendor Restaurant Marketplace website with location based search, nearby r
 </br>
 </br>
 
+
+Python
+Django
 Postgrass
